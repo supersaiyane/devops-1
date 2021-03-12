@@ -1,0 +1,3 @@
+fileignoreconfig:
+- filename: aws_key
+  checksum: 1ec3e84934cfb5534363c7c1b546e5bddb1e8cbad26c6fe354211e7f319ba95a
